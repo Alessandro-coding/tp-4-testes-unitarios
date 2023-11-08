@@ -9,3 +9,6 @@ Matheus Vieira de Araújo - 1357315
 Rhuan Mateus Matias Filgueira - 1605351  
 
 Software open source em análise: BleachBit
+
+Infelizmente a equipe não conseguiu rodar os testes unitários, devido à algum problema em que não são reconhecidos os arquivos da pasta bleachbit como módulos.  
+Os testers Igo Florentino e Francisco Alessandro não rodaram no Visual Studio Code devido ao problema mencionado.  
